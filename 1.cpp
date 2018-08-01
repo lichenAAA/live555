@@ -1,4 +1,5 @@
 hello,world...
+<<<<<<< HEAD
 qqqqqqqqqqqqqqqqqqqqqqq
 <<<<<<< HEAD
 include
@@ -6,3 +7,5 @@ include
 iiiiii
 >>>>>>> dev
 lichen,nihao...
+=======
+>>>>>>> dev
